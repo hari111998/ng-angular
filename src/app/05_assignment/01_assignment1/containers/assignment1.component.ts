@@ -7,4 +7,9 @@ import { Component } from '@angular/core';
 })
 export class Assignment1Component {
 
+  values:string
+
+  onChange(event: any) {
+    this.values = event.value;
+  }
 }

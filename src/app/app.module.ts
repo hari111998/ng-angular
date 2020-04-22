@@ -14,7 +14,7 @@ const FEATURE_MODULES_TAUGHT = [
   // BuiltInDirectivesModule
   // PipesModule
   // DirectivesModule,
-  // TodoModule
+  // TodoModule,
   AssignmentModule
 ];
 
